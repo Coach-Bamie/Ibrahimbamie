@@ -13,7 +13,7 @@ Here’s a summary of what I learned in the first week:
   - Absolute URLs include all details.
   - Relative URLs are missing elements like scheme or domain.
 
-# Day 2: Introduction to Web Technologies
+# Day 2-5: Introduction to Web Technologies
 
 - The web connects complex systems; computers on the Internet function as clients and servers.
 - HTML (Hypertext Markup Language) structures web pages and content.
