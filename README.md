@@ -2,7 +2,7 @@
 
 Here’s a summary of what I learned in the first week:
 
-# Day 1: Introduction to the Internet**
+# Day 1: Introduction to the Internet
 
 - The Internet is a massive network connecting billions of users globally.
 - It's more than just buying data; it’s a network of networks.
